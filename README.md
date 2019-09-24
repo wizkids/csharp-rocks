@@ -53,6 +53,8 @@ The custom dictionary is implemented as an SQLite 3 database (`Dictionary.db`). 
 
 The database is not encrypted/does not require a password.
 
+If you have issues downloading the database file directly (GitHub some times display a 404 error), try cloning the project instead.
+
 
 ## Word predictions web service description
 
