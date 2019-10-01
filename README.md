@@ -8,7 +8,7 @@ If the input text is `I like ca` the predictions could be `cars`, `cats` and `ca
 
 The test requires you to create a small front-end and back-end that implements the word prediction functionality with results from a custom dictionary and our word prediction web service.
 
-If you have any issues getting the word prediction web service to work, don't hesitate in contacting us.
+If you encounter any unexpected issues please contact us at `srs AT wizkids.dk` and we will get back to you ASAP.
 
 ## Scope
 
@@ -43,9 +43,11 @@ The API should perform the following tasks:
 
 ## Miscellaneous tasks
 
-#### 1. Add your code in a Git project on GitHub and share the link with your Wizkids contact.
+#### 1. Generate a token for use with the word predictions web service at https://services.lingapps.dk/misc/jobAdvert.
 
-#### 2. (OPTIONAL, but strongly recommended) Share one of your C# projects (in which you've been a major contributor) with us - Git repository preferred.
+#### 2. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/jobAdvert.
+
+(OPTIONAL, but strongly recommended) Also add a link to one of your C# projects (in which you've been a major contributor) with us - Git repository preferred.
 
 ## Custom dictionary description
 
@@ -62,7 +64,7 @@ If you have issues downloading the database file directly (GitHub some times dis
 `https://services.lingapps.dk/misc/getPredictions`
 
 #### Authorization
-Header: `Authorization: Bearer [TOKEN]` (token provided by Wizkids)
+Header: `Authorization: Bearer [TOKEN]` (token generated in Miscellaneous task #1)
 
 #### Parameters
   - `locale`: String, the language in which the predictions should be computed. Valid values are `da-DK` and `en-GB`.
