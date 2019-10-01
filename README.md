@@ -47,7 +47,7 @@ The API should perform the following tasks:
 
 #### 2. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/jobAdvert.
 
-(OPTIONAL, but strongly recommended) Also add a link to one of your C# projects (in which you've been a major contributor) with us - Git repository preferred.
+(OPTIONAL, but strongly recommended) Also add a link to one of your C# projects (in which you've been a major contributor) - Git repository preferred.
 
 ## Custom dictionary description
 
