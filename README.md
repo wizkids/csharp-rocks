@@ -14,7 +14,9 @@ If you encounter any unexpected issues please contact us at `srs AT wizkids.dk` 
 
 We expect a simply structured HTML/CSS/JS/C# project with good readability. Design and UX is not a major consideration - keeping it simple is fine.
 
-We expect a well-versed developer to be able to complete the task within 2 hours.
+We expect a well-versed developer to be able to complete the tasks within a couple of hours.
+
+*While a simple test project you should treat it as a project that should run in production in a business environment.*
 
 ## Back-end tasks
 
