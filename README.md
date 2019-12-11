@@ -47,7 +47,7 @@ The API should perform the following tasks:
 
 #### 1. Generate a token for use with the word predictions web service at https://services.lingapps.dk/misc/CSharpJSRocks.
 
-#### 2. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/CSharpJSRockst.
+#### 2. Add your code in a Git project on GitHub and submit the link at https://services.lingapps.dk/misc/CSharpJSRocks.
 
 (OPTIONAL, but strongly recommended) Also add a link to one of your C# projects (in which you've been a major contributor) - Git repository preferred.
 
